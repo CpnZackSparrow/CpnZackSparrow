@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zack Wheeler</h1>
-<h3 align="center">An aspiring data analyst currently living in the Pacific Northwest!</h3>
+<h3 align="center">An aspiring data analyst currently living in the Greater Seattle Area within the Pacific Northwest!</h3>
 <img align="right" alt="Data Analytics" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif">
 
 <h3 align="left">
